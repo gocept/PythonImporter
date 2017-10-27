@@ -24,6 +24,12 @@ short cut. The import with be added at the beginning of the file.
 Open issues and ideas
 ---------------------
 
+* Improve documentation
+
+* Make it a real sublime package
+
+* Upload package to
+
 * (Optionally) Sort imports after adding a new one
 
 * Do not add duplicate imports
