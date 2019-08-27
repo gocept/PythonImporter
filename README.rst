@@ -4,7 +4,7 @@ Python Import Helper
 Goal
 ----
 
-Make adding of Python import statements easier.
+Make adding of Python import statements in Sublime easier.
 
 Installation
 ------------
