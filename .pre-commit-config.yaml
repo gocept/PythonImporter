@@ -38,6 +38,6 @@ repos:
             additional_dependencies: [pygments, restructuredtext_lint]
 # This can deal with sphinx directives
     - repo: https://github.com/myint/rstcheck
-      rev: v6.0.0rc3
+      rev: v6.0.0.post1
       hooks:
       - id: rstcheck
